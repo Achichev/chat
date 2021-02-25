@@ -1,9 +1,9 @@
-package com.javarush.task.task30.task3008.client;
+package chat.client;
 
-import com.javarush.task.task30.task3008.Connection;
-import com.javarush.task.task30.task3008.ConsoleHelper;
-import com.javarush.task.task30.task3008.Message;
-import com.javarush.task.task30.task3008.MessageType;
+import chat.Connection;
+import chat.ConsoleHelper;
+import chat.Message;
+import chat.MessageType;
 
 import java.io.IOException;
 import java.net.Socket;
